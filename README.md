@@ -1,7 +1,7 @@
 # RunOnlyWhenIdle
 Kills another process when pc is used and runs it again when there is no user input for 10 minutes (doesn't run if wasn't killed).
 
-Supports multi-user scenario, please run separately for each user where Dropbox is running.
+Supports multi-user scenario, please run separately for each user where Dropbox runs.
 
 ## Usage
 RunOnlyWhenIdle.exe process-path [start-path [start-args]]
