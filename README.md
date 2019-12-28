@@ -12,3 +12,4 @@ Usable for Dropbox when you don't want it to sync and lock files while you are a
 4. Wait 10 minutes without touching anything
 5. Dropbox will be restarted
 
+I recommend <a href="https://dexpot.de">Dexpot</a> to minimize app window to tray.
